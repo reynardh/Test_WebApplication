@@ -1,0 +1,17 @@
+C:\Users\vp\documents\visual studio 2017\Projects\WebApplication6\Application.Util\bin\Debug\netcoreapp2.0\Application.Util.deps.json
+C:\Users\vp\documents\visual studio 2017\Projects\WebApplication6\Application.Util\bin\Debug\netcoreapp2.0\Application.Util.dll
+C:\Users\vp\documents\visual studio 2017\Projects\WebApplication6\Application.Util\bin\Debug\netcoreapp2.0\Application.Util.pdb
+C:\Users\vp\documents\visual studio 2017\Projects\WebApplication6\Application.Util\obj\Debug\netcoreapp2.0\Application.Util.csproj.CoreCompileInputs.cache
+C:\Users\vp\documents\visual studio 2017\Projects\WebApplication6\Application.Util\obj\Debug\netcoreapp2.0\Application.Util.AssemblyInfoInputs.cache
+C:\Users\vp\documents\visual studio 2017\Projects\WebApplication6\Application.Util\obj\Debug\netcoreapp2.0\Application.Util.AssemblyInfo.cs
+C:\Users\vp\documents\visual studio 2017\Projects\WebApplication6\Application.Util\obj\Debug\netcoreapp2.0\Application.Util.dll
+C:\Users\vp\documents\visual studio 2017\Projects\WebApplication6\Application.Util\obj\Debug\netcoreapp2.0\Application.Util.pdb
+D:\Project\C#\Test_WebApplication\Application.Util\bin\Debug\netcoreapp2.0\Application.Util.deps.json
+D:\Project\C#\Test_WebApplication\Application.Util\bin\Debug\netcoreapp2.0\Application.Util.dll
+D:\Project\C#\Test_WebApplication\Application.Util\bin\Debug\netcoreapp2.0\Application.Util.pdb
+D:\Project\C#\Test_WebApplication\Application.Util\obj\Debug\netcoreapp2.0\Application.Util.csprojAssemblyReference.cache
+D:\Project\C#\Test_WebApplication\Application.Util\obj\Debug\netcoreapp2.0\Application.Util.csproj.CoreCompileInputs.cache
+D:\Project\C#\Test_WebApplication\Application.Util\obj\Debug\netcoreapp2.0\Application.Util.AssemblyInfoInputs.cache
+D:\Project\C#\Test_WebApplication\Application.Util\obj\Debug\netcoreapp2.0\Application.Util.AssemblyInfo.cs
+D:\Project\C#\Test_WebApplication\Application.Util\obj\Debug\netcoreapp2.0\Application.Util.dll
+D:\Project\C#\Test_WebApplication\Application.Util\obj\Debug\netcoreapp2.0\Application.Util.pdb
